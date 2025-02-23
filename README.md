@@ -28,4 +28,3 @@ We use the **AI-ArtBench dataset**, which includes:
 - **ViT Model:** Achieved **99% accuracy** in distinguishing AI vs. human art.
 - **ResNet-50:** Achieved **96% accuracy** with focused feature analysis.
 - **FFT + Machine Learning Models:** XGBoost performed best among traditional classifiers.
-- **
